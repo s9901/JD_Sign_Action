@@ -48,7 +48,7 @@
 * github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网；
 * 菜单栏`微信推送`扫描绑定微信；
 * 菜单栏`发送消息`拷贝SCKEY；
-
+123123
 
 ## 获取新版Server酱SCKEY
 
